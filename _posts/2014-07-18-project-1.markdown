@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-img: cabin.png
+img: coat.png
 alt: image-alt
 description: Classic, long-lasting clothing.
 ---
