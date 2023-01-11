@@ -2,7 +2,7 @@
 title: Classic Clothing
 layout: default
 modal-id: 1
-img: coat.png
+img: textiles.png
 alt: image-alt
 description: Classic, long-lasting clothing.
 ---
