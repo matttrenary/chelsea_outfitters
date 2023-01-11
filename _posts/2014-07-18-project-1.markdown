@@ -4,5 +4,5 @@ layout: default
 modal-id: 1
 img: textiles.png
 alt: image-alt
-description: Classic, long-lasting clothing.
+description: Classic, long-lasting textiles and clothing.
 ---
