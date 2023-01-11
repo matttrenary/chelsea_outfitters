@@ -4,8 +4,5 @@ modal-id: 2
 date: 2014-07-17
 img: sustainables.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
 description: Quality, eco-conscious products from local suppliers.
 ---
