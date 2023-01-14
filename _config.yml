@@ -35,7 +35,7 @@ footer:
   copyright: Chelsea Outfitters
   location: Location
   social: Social
-  credits: Credits
+  credits: Explore Chelsea
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -50,7 +50,7 @@ address:
   - line: Chelsea, MI 48118
 
 # Credits content
-credits: 'Freelancer theme by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: '<a href="https://chelseamich.com/">Chelsea Area Chamber of Commerce</a>.'
 
 # Build settings
 markdown: kramdown
