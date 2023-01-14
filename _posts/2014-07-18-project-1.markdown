@@ -1,5 +1,5 @@
 ---
-title: Classic Clothing
+title: Textiles
 layout: default
 modal-id: 1
 img: textiles.png
