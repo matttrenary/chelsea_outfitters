@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 3
+title: Makerspace
 date: 2014-07-16
 img: makerspace.png
 alt: image-alt
