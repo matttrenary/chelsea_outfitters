@@ -50,7 +50,7 @@ address:
   - line: Chelsea, MI 48118
 
 # Credits content
-credits: '<a href="https://chelseamich.com/" target="_blank">Chelsea Area Chamber of Commerce</a>.'
+credits: '<a href="https://chelseamich.com/" target="_blank">Chelsea Area Chamber of Commerce</a>'
 
 # Build settings
 markdown: kramdown
