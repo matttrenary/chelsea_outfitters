@@ -1,9 +1,9 @@
 ---
 layout: default
 modal-id: 3
-title: Makerspace
+title: Clothing & Repairs
 date: 2014-07-16
-img: makerspace.png
-alt: image-alt
-description: A creation and repair space to maintain your products.
+img: clothing.png
+alt: Clothing & Repairs
+description: Patch it, don't trash it!
 ---
