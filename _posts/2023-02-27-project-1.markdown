@@ -4,5 +4,5 @@ layout: default
 modal-id: 1
 img: outdoorrec.png
 alt: Outdoor recreation gear
-description: Quality, sustainable gear to enhance your enjoyment of the Waterloo-Pinckney recreational options.
+description: Quality, sustainable gear to enhance your enjoyment of the Waterloo-Pinckney recreational options
 ---
