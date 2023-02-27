@@ -1,8 +1,8 @@
 ---
-title: Textiles
+title: Outdoor Recreation
 layout: default
 modal-id: 1
-img: textiles.png
-alt: image-alt
-description: Classic, long-lasting textiles and clothing.
+img: outdoorrec.png
+alt: Outdoor recreation gear
+description: Quality, sustainable gear to enhance your enjoyment of the Waterloo-Pinckney recreational options.
 ---
