@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 6
+title: Sustainable hygiene
+date: 2023-02-27
+img: hygiene.png
+alt: Sustainable hygiene
+description: Safe and clean bodycare alternatives.
+---
