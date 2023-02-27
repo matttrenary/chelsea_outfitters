@@ -1,9 +1,9 @@
 ---
 layout: default
 modal-id: 2
-title: Sustainable goods
+title: Home goods
 date: 2014-07-17
-img: sustainables.png
-alt: image-alt
-description: Quality, eco-conscious products from local suppliers.
+img: homegoods.png
+alt: Home goods
+description: Long-lasting, compostable alternatives to single-use plastics
 ---
